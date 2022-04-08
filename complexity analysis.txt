@@ -1,5 +1,5 @@
 # Time complexity:
-if lenth if the string is m and number of ileration is n,
+if length if the string is m and number of iteration is n,
 
 then time complexity for finite automata construction is O(m*n)
 and the time complexity for search is O(n).
